@@ -44,7 +44,6 @@ This repository includes:
 Techniques applied:
 - Label Encoding
 - Ordinal Encoding
-- Missing Value Handling
 - Lag Features
 - Rolling Statistics
 - Interaction Features
@@ -64,17 +63,7 @@ matplotlib
 
 ---
 
-## Repository Structure
 
-```text
-├── data/
-├── notebooks/
-├── submissions/
-├── models/
-├── README.md
-```
-
----
 
 ## Future Improvements
 - Hyperparameter tuning
